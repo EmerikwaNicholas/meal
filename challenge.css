@@ -1,0 +1,16 @@
+body{
+    background-color: hsl(233, 47%, 7%);
+    font-size: 15px;
+    font-family: [Inter];
+}
+
+.part1{
+ color: hsla(0, 0%, 100%, 0.75);
+}
+
+.part2{
+    color: hsla(0, 0%, 100%, 0.6);
+}
+.container{
+    color:  hsl(0, 0%, 100%);
+}
